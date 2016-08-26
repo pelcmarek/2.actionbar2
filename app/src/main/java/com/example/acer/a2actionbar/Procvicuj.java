@@ -10,11 +10,11 @@ import android.view.MenuItem;
 
 
 
-public class MainActivity extends Activity {
+public class Procvicuj extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.procvicuj);
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

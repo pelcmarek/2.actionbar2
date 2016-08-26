@@ -7,5 +7,8 @@
     <string name="uroven">Uroven</string>
     <string name="slovicka">Slovicka</string>
     <string name="procvicuj">Procvicuj</string>
-
+    <string name="radio_A1">A1 (1200 slovicek) </string>
+    <string name="radio_B1">B1 (5600 slovicek)</string>
+    <string name="radio_C1">C1 (10800 slovicek)</string>
+    <string name="btn_display">Ulozit</string>
 </resources>
